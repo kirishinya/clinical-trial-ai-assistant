@@ -2,6 +2,12 @@
 
 > 临床试验 AI 辅助助手｜基于大语言模型、规则引擎与 Human-in-the-loop 的求职作品集 Demo
 
+## 在线体验
+
+**[点击打开 Clinical Trial AI Assistant](https://clinical-trial-ai-assistant-kirishinya.streamlit.app/)**
+
+公开版本默认使用 Demo 模式，无需 API Key，可直接体验全部四项核心功能。
+
 本项目模拟临床试验运营中的四类高频工作：Protocol 信息整理、受试者初步筛选、Source Data 与 EDC 数据核查，以及 CRA 待办事项跟踪。项目重点不是替代研究者，而是展示如何把 AI、Python 数据处理和临床试验业务流程组合成一套可解释、可复核的辅助工作流。
 
 > **重要声明：**本项目仅用于学习及求职作品展示；全部 Protocol 和患者数据均为虚构模拟数据。AI 结果仅作为辅助信息，最终入排标准判断和医学判断必须由研究者完成。
