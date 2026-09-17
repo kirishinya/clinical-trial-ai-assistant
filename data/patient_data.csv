@@ -1,0 +1,13 @@
+﻿is_simulated,diagnosis,stage,ECOG,ANC_10e9_L,platelet_10e9_L,hemoglobin_g_L,ALT_ULN_ratio,creatinine_clearance_mL_min,measurable_lesion,previous_treatment,days_since_last_treatment,current_medication,medical_history,active_CNS_metastasis,informed_consent,pregnancy_status,patient_id,age,sex,laboratory_results
+True,非小细胞肺癌,IV,0.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P001,58,M,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,2.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P002,64,F,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,,2.4,165,112,1.2,78,Yes,含铂化疗,,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P003,55,M,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,1.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P004,80,M,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,1.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,Yes,Yes,Not applicable,P005,49,F,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,1.0,2.4,165,112,1.2,45,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P006,67,M,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=45mL/min
+True,非小细胞肺癌,IIIB,1.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P007,61,F,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,小细胞肺癌,IV,1.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P008,53,M,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IIIA,1.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P009,72,F,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,1.0,2.4,165,112,1.2,78,No,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Yes,Not applicable,P010,45,M,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,1.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,泼尼松 20 mg/日,活动性自身免疫性疾病，近期需系统治疗,No,Yes,Not applicable,P011,60,F,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min
+True,非小细胞肺癌,IV,1.0,2.4,165,112,1.2,78,Yes,含铂化疗,35.0,无影响入排标准的合并用药,高血压，控制稳定,No,Unknown,Unknown,P012,39,F,ANC=2.4x10^9/L; PLT=165x10^9/L; Hb=112g/L; ALT=1.2xULN; CrCl=78mL/min

@@ -1,0 +1,12 @@
+﻿record_id,patient_id,is_simulated,visit,visit_date,hemoglobin,hemoglobin_unit,ALT_U_L,concomitant_medication,AE_term,AE_grade,ae_seriousness,informed_consent_date
+EDC-001,P001,True,Screening,2026-08-10,109.0,g/L,25,无,,,Not serious,2026-08-08
+EDC-002,P002,True,Screening,2026-08-21,110.0,g/L,26,无,,,Not serious,2026-08-09
+EDC-003,P003,True,Screening,2026-08-12,126.0,g/L,27,无,,,Not serious,2026-08-10
+EDC-004,P004,True,Screening,2026-08-13,,g/L,28,无,,,Not serious,2026-08-11
+EDC-005,P005,True,Screening,2026-08-14,113.0,g/L,29,无,,,Not serious,2026-08-12
+EDC-006,P006,True,Screening,2026-08-15,114.0,g/dL,30,无,,,Not serious,2026-08-13
+EDC-007,P007,True,Screening,2026-08-16,115.0,g/L,31,无,,,Not serious,2026-08-14
+EDC-008,P008,True,Screening,2026-08-17,116.0,g/L,32,无,,1,Not serious,2026-08-15
+EDC-009,P009,True,Screening,2026-08-18,117.0,g/L,33,无,,,Not serious,2026-08-25
+EDC-010,P010,True,Screening,2026-08-19,118.0,g/L,34,无,,,,2026-08-17
+EDC-011,P005,True,Screening,2026-08-14,113.0,g/L,29,无,,,Not serious,2026-08-12
